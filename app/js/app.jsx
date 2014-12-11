@@ -13,7 +13,7 @@ return ( <div className="Avatar"> {this.props.name}</div>)
 }
 });
 
-React.render(<Avatar name ="Brent"/>, document.getElementById('mount-point'));
+React.render(<Avatar name ="Brent's family"/>, document.getElementById('mount-point'));
 
 console.log('font-end app initialized');
 var app = {foo: 'bar'};
