@@ -4,8 +4,19 @@
   height: 50px;
   overflow: hidden;
   img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     width: auto\9; /* ie8 */
   }
+}
+
+.container {
+  border: 2px ridge gray;
+}
+
+#mount-point {
+  text-align: center;
+  font-family: serif;
+  font-size:35px;
+  color:#B10DC9
 }
