@@ -41,7 +41,7 @@
     "karma": "^0.12.23",
     "karma-browserify": "^1.0.0",
     "karma-chrome-launcher": "^0.1.4",
-    "karma-ie-launcher": "^0.1.5",
+    "karma-ie-launcher": "^0.2.0",
     "karma-jasmine": "^0.3.1",
     "karma-phantomjs-launcher": "^0.1.4",
     "reactify": "^0.17.1"
