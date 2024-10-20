@@ -39,7 +39,7 @@
     "grunt-sass": "^0.17.0",
     "grunt-wiredep": "^2.0.0",
     "karma": "^0.12.23",
-    "karma-browserify": "^1.0.0",
+    "karma-browserify": "^5.0.0",
     "karma-chrome-launcher": "^0.1.4",
     "karma-ie-launcher": "^0.1.5",
     "karma-jasmine": "^0.3.1",
